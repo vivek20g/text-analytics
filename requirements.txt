@@ -1,5 +1,5 @@
+sklearn
 stomp
 numpy
 coloredlogs
 nltk
-sklearn
