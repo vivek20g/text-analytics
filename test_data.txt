@@ -1,0 +1,12 @@
+0	case handled very well
+0	payment received in time
+1	payment not yet received
+1	worst case handling
+0	exceptional support
+0	superb
+1	could be better
+0	exactly what i expected
+1	shit
+0	better handled
+1	slow response
+1	bad handling
