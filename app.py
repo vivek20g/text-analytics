@@ -1,1 +1,1 @@
-./TestAMQTextAnalytics.py
+docker run TestAMQTextAnalytics
