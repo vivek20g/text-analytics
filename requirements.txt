@@ -1,4 +1,4 @@
 sklearn
-numpy
-coloredlogs
 nltk
+stomp.py
+coloredlogs
