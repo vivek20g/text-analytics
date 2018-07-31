@@ -1,1 +1,1 @@
-APP_MODULE=TestAMQTextAnalytics:app
+./TestAMQTextAnalytics.py
