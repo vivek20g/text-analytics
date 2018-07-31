@@ -1,4 +1,5 @@
 flask
+sklearn
 nltk
 stomp.py
 coloredlogs
