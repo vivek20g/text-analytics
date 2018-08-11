@@ -5,13 +5,15 @@ import stomp
 # Connection properties for subscribing queue and publish queue
 user='admin'
 password = 'admin'
-host = 'localhost'
+#host = 'localhost'
+host='172.17.0.4'
 port = '61613'
 destination ='TestQ'
 
 user_send='admin'
 password_send = 'admin'
-host_send = 'localhost'
+#host_send = 'localhost'
+host_send='172.17.0.4'
 port_send = '61613'
 destination_send ='ReceiveQ'
 
